@@ -43,8 +43,8 @@ The function returns after sorting the stack or determining that it is already s
 ## Sorting algorithms
 Which sorting algorithm to use is determined based on the size of the stack.
 - For stack size up to 5 there are standardized algorithms to sort in a mininmum amount of moves.
-- up to 100 I use an intersect sort which is only marginally better thatn the radix sort but was a nice exercize.
-- over 100 I use radix sort.
+- Up to  n = 100 I use an intersect sort which is only marginally better thatn the radix sort but was a nice exercize.
+- Over N = 100 I use radix sort.
 
 March, 2023
 
